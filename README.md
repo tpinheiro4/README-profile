@@ -13,6 +13,8 @@ Bem vindo ao meu perfil do Github!
 <img align="center" alt="icon-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 </div>
 
+
+
 <div>
   <a href="https://www.linkedin.com/in/thiago-pinheiro14/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
